@@ -10,7 +10,7 @@ Alongside development, I continuously practice Data Structures and Algorithms an
 
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, Express.js
-- Databases: MongoDB, MySQL, Oracle
+- Databases: MongoDB, MySQL
 - AI/ML: Python, TensorFlow, NumPy, Pandas, scikit-learn
 - Tools: Git, GitHub, Firebase, VS Code
 
@@ -21,10 +21,6 @@ Alongside development, I continuously practice Data Structures and Algorithms an
 - Loves building projects with real-world impact
 - Exploring MERN Stack and intelligent automation systems
 - Consistently learning new technologies and development workflows
-
-You can explore some of my featured projects below.
-
----
 
 ## 🛠️ Languages and Tools
 
