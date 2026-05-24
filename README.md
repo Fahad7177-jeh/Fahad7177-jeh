@@ -1,88 +1,43 @@
-<h1 align="center">Hi 👋, I'm Shaik Fahad Jahangir</h1>
+# Hi there 👋
 
-<h3 align="center">
-Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast
-</h3>
+I'm Shaik Fahad Jahangir, a passionate software developer and AI/ML enthusiast, currently pursuing my B.Tech in Computer Science and Engineering in India.
 
----
+I enjoy building practical, real-world applications using modern web technologies and exploring intelligent systems through Machine Learning and Artificial Intelligence.
 
-## 🚀 About Me
+Alongside development, I continuously practice Data Structures and Algorithms and work on improving my problem-solving skills.
 
-- 🎓 B.Tech CSE Student
-- 🌱 Learning Java Full Stack Development
-- 🤖 Exploring AI & Machine Learning
-- 💻 Building MERN Stack Projects
-- 📚 Practicing DSA and SQL
-- ⚡ Interested in scalable web applications and intelligent systems
+## Technical Skills
+
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express.js
+- Databases: MongoDB, MySQL, Oracle
+- AI/ML: Python, TensorFlow, NumPy, Pandas, scikit-learn
+- Tools: Git, GitHub, Firebase, VS Code
+
+## Interests and Facts
+
+- Passionate about Full Stack Development and AI-driven applications
+- Interested in scalable systems and modern web technologies
+- Loves building projects with real-world impact
+- Exploring MERN Stack and intelligent automation systems
+- Consistently learning new technologies and development workflows
+
+You can explore some of my featured projects below.
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<div align="center">
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql" /><br>
-<img src="https://skillicons.dev/icons?i=java,python,tensorflow,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br><br>
 
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,oracle" /><br><br>
 
----
+<img src="https://skillicons.dev/icons?i=cpp,python,java" /><br><br>
 
-## 📌 Featured Projects
+<img src="https://skillicons.dev/icons?i=tensorflow,firebase" /><br><br>
 
-### 🚜 SMART AI FARMING
-AI-powered agriculture platform with:
-- Crop recommendation
-- Plant disease detection
-- Fertilizer suggestion
-- Irrigation prediction
-- Yield prediction
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" />
 
-### 💬 Real-Time Chat Application
-Built using:
-- Node.js
-- Socket.io
-- HTML/CSS/JavaScript
-
-### 📍 BookVenueNow
-Venue booking platform using:
-- HTML
-- CSS
-- JavaScript
-- Firebase
-
-### ⚙️ Predictive Equipment Health System
-Machine learning-based predictive maintenance system.
-
----
-
-## 🏆 Certifications
-
-- Artificial Intelligence Primer – Infosys
-- Machine Learning – Infosys
-- Java Certification – NPTEL
-- Python Certification – HackerRank
-- AI-Powered Performance Ads – Google
-- Google Ad Manager Certification
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Fahad7177-jeh&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fahad7177-jeh&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad7177-jeh&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: shaikfahadjahangir@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/shaik-fahad-jahangir-3746b92b6/
-- 🌐 Portfolio: Add your portfolio link
-
----
-
-⭐ Thanks for visiting my profile!
+</p>
