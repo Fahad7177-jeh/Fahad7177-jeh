@@ -19,9 +19,12 @@ Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,mysql,firebase,git,github,vscode" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql" /><br>
+<img src="https://skillicons.dev/icons?i=java,python,tensorflow,firebase,git,github,vscode" />
+
+</div>
 
 ---
 
