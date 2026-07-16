@@ -1,349 +1,282 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:111827,100:4F46E5&height=220&section=header&text=Shaik%20Fahad%20Jahangir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20B.Tech%20CSE%20%E2%80%A2%20MLR%20Institute%20of%20Technology&descAlignY=68&descSize=18" alt="Premium banner for Shaik Fahad Jahangir" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:8B5CF6&height=230&section=header&text=Shaik%20Fahad%20Jahangir&fontSize=44&fontColor=F0F6FC&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%C2%B7%20AI%20%2F%20ML%20%2B%20Full-Stack%20Developer&descAlignY=53&descSize=17&descColor=A5B4FC" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=880&lines=Building+scalable+software+with+clean+design.;AI+%7C+Full-Stack+%7C+Cloud+%7C+Open+Source.;Crafting+products+that+feel+modern%2C+fast%2C+and+human." alt="Typing introduction banner" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=23&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+MLR+Institute+of+Technology;Building+with+AI+%2F+ML+%2B+Modern+Web+Stacks;Turning+Ideas+Into+Scalable+Products;Open+to+Software+Engineering+Roles" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<h1>
-  <span style="background: linear-gradient(90deg, #60A5FA 0%, #8B5CF6 50%, #C084FC 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Shaik Fahad Jahangir
-  </span>
-</h1>
+<img src="https://komarev.com/ghpvc/?username=Fahad7177-jeh&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Fahad7177-jeh?label=FOLLOWERS&style=for-the-badge&color=6366f1&logo=github&logoColor=white&labelColor=161B22" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Fahad7177-jeh?label=STARS&style=for-the-badge&color=3b82f6&logo=github&logoColor=white&labelColor=161B22" alt="Stars"/>
 
-<p>
-  <strong>Aspiring Software Engineer</strong><br/>
-  Designing intelligent systems, full-stack products, and cloud-ready solutions with a premium product mindset.
-</p>
+</div>
 
-<p>
-  <a href="https://github.com/Fahad7177-jeh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/shaik-fahad-jahangir-3746b92b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=0B1020" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/shaikfahadjahangir/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=0B1020" alt="LeetCode" />
-  </a>
-  <a href="mailto:shaikfahadjahangir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=F87171&labelColor=0B1020" alt="Email" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Fahad7177-jeh&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Fahad7177-jeh?style=for-the-badge&color=2563EB&labelColor=111827&logo=github&label=FOLLOWERS" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Fahad7177-jeh?style=for-the-badge&color=8B5CF6&labelColor=111827&logo=github&label=TOTAL+STARS" alt="GitHub stars" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3B82F6,100:8B5CF6&height=3" width="100%"/>
 
 <br/>
 
-<img src="https://svgur.com/i/15k8.svg" alt="Abstract dark developer illustration" width="78%" />
+## <img src="https://img.shields.io/badge/-ABOUT%20ME-8B5CF6?style=flat-square&labelColor=0D1117" height="26"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=About%20Me&fontColor=E5E7EB&fontSize=30&fontAlign=50" alt="About Me section title" />
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td width="56%" valign="top">
+<td width="62%" valign="top">
+<br/>
 
-### Hello, I'm Fahad
+I'm **Shaik Fahad Jahangir**, a final-year Computer Science Engineering student at **MLR Institute of Technology**, graduating in **2027** with a current CGPA of **8.81**. I enjoy turning ambiguous problems into clean, working software — from AI-driven systems to full-stack web platforms.
 
-I’m a developer focused on building clean, useful, and modern digital products that combine software engineering with thoughtful user experience.
+My current focus sits at the intersection of **Artificial Intelligence / Machine Learning** and **modern full-stack development**, with growing interest in cloud-native and enterprise systems. I like building things end-to-end: data pipeline, model, API, and a polished interface on top.
 
-I’m currently pursuing **B.Tech in Computer Science Engineering** at **MLR Institute of Technology**, with a **CGPA of 8.81** and graduation in **2027**.
+**Currently exploring** — advanced ML architectures, scalable backend design, and cloud deployment patterns.
 
-I enjoy creating systems that sit at the intersection of:
-- Artificial Intelligence
-- Full-Stack Development
-- Cloud Engineering
-- Data-Driven Products
-
-I’m currently learning and sharpening:
-- Advanced React & Next.js architecture
-- AI/ML application development
-- Cloud deployment workflows
-- DevOps and scalable engineering practices
-
-My goal is to grow into a software engineer who builds products that are elegant, impactful, and production-ready.
+**Career objective** — to join a team building meaningful, high-impact software, and to grow into an engineer who ships thoughtful, well-crafted products.
 
 </td>
-<td width="44%" valign="middle" align="center">
+<td width="38%" valign="top">
+<br/>
 
-<img src="https://svgur.com/i/15iQ.svg" alt="Software engineer themed SVG illustration" width="100%" />
+<table width="100%">
+<tr><td>
+
+**`ROLE`**<br/>Aspiring Software Engineer
+
+**`EDUCATION`**<br/>B.Tech, Computer Science Engineering
+
+**`INSTITUTE`**<br/>MLR Institute of Technology
+
+**`CGPA`**<br/>8.81 / 10
+
+**`GRADUATION`**<br/>2027
+
+**`FOCUS AREAS`**<br/>AI / ML · Full-Stack · Cloud
+
+</td></tr>
+</table>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3B82F6,100:8B5CF6&height=3" width="100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-TECH%20STACK-8B5CF6?style=flat-square&labelColor=0D1117" height="26"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Tech%20Stack&fontColor=E5E7EB&fontSize=30&fontAlign=50" alt="Tech Stack section title" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/PL%2FSQL-0D1117?style=for-the-badge&logo=oracle&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/ABAP-0D1117?style=for-the-badge&logo=sap&logoColor=6366F1" />
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
+<img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
+
+<br/><br/>
+
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=D00000" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+
+<br/><br/>
+
+**Cloud & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,jenkins,ansible,vercel,jupyter&theme=dark" />
+<img src="https://img.shields.io/badge/Oracle%20Cloud-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Programming-0B1020?style=for-the-badge&logo=codefactor&logoColor=93C5FD" alt="Programming section" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3B82F6,100:8B5CF6&height=3" width="100%"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" alt="Programming languages" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=sqlite&logoColor=60A5FA" alt="SQL" />
-  <img src="https://img.shields.io/badge/PLSQL-111827?style=flat-square&logo=oracle&logoColor=C084FC" alt="PLSQL" />
-  <img src="https://img.shields.io/badge/ABAP-111827?style=flat-square&logo=sap&logoColor=60A5FA" alt="ABAP" />
-</p>
+## <img src="https://img.shields.io/badge/-FEATURED%20PROJECTS-8B5CF6?style=flat-square&labelColor=0D1117" height="26"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-0B1020?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Frontend section" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts,tailwind" alt="Frontend technologies" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-0B1020?style=for-the-badge&logo=nodedotjs&logoColor=93C5FD" alt="Backend section" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend technologies" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Databases-0B1020?style=for-the-badge&logo=databricks&logoColor=C084FC" alt="Databases section" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Database technologies" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-111827?style=flat-square&logo=oracle&logoColor=F87171" alt="Oracle" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-0B1020?style=for-the-badge&logo=tensorflow&logoColor=60A5FA" alt="AI and ML section" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-111827?style=flat-square&logo=keras&logoColor=F87171" alt="Keras" />
-  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=60A5FA" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=C084FC" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-111827?style=flat-square&logo=plotly&logoColor=93C5FD" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=F87171" alt="Streamlit" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud%20%26%20Tools-0B1020?style=for-the-badge&logo=icloud&logoColor=93C5FD" alt="Cloud and tools section" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,docker,kubernetes,jenkins,ansible,vercel" alt="Cloud and tools" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-111827?style=flat-square&logo=oracle&logoColor=F97316" alt="Oracle Cloud" />
-  <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F59E0B" alt="Jupyter" />
-</p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Featured%20Projects&fontColor=E5E7EB&fontSize=30&fontAlign=50" alt="Featured Projects section title" />
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<div align="left">
+### 🌾 Smart AI Farming
+An AI-assisted farming system that analyzes environmental and crop data to support smarter, data-driven agricultural decisions.
 
-## <img src="https://cdn.simpleicons.org/openai/8B5CF6" width="18" /> Smart AI Farming
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=8B5CF6"/>
 
-AI-driven agriculture platform focused on smarter farming decisions, intelligent monitoring, and practical automation for modern agriculture.
-
-**Stack**  
-Java • Python • AI/ML • Streamlit • Firebase
-
-<a href="https://github.com/Fahad7177-jeh" target="_blank">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Smart AI Farming on GitHub" />
-</a>
-
-</div>
+[![View Repository](https://img.shields.io/badge/View%20Repository-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fahad7177-jeh?tab=repositories&q=Smart+AI+Farming)
 
 </td>
 <td width="50%" valign="top">
 
-<div align="left">
+### 📍 BookVenueNow
+A venue discovery and booking platform that lets users browse, compare, and reserve event spaces through a clean, streamlined interface.
 
-## <img src="https://cdn.simpleicons.org/bookingdotcom/60A5FA" width="18" /> BookVenueNow
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248"/>
 
-A venue booking platform designed to simplify discovery, scheduling, and reservation workflows with a clean and scalable user experience.
-
-**Stack**  
-React • Node.js • Express • MongoDB • Tailwind
-
-<a href="https://github.com/Fahad7177-jeh" target="_blank">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="View BookVenueNow on GitHub" />
-</a>
-
-</div>
+[![View Repository](https://img.shields.io/badge/View%20Repository-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fahad7177-jeh?tab=repositories&q=BookVenueNow)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<div align="left">
+### 🔗 URL Shortener
+A lightweight, high-performance URL shortening service with custom aliasing and click analytics.
 
-## <img src="https://cdn.simpleicons.org/linktree/A78BFA" width="18" /> URL Shortener
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=F0F6FC"/> <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1"/>
 
-A minimal and efficient link management tool built for speed, simplicity, and clean backend logic.
-
-**Stack**  
-JavaScript • Node.js • Express • MySQL
-
-<a href="https://github.com/Fahad7177-jeh" target="_blank">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="View URL Shortener on GitHub" />
-</a>
-
-</div>
+[![View Repository](https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fahad7177-jeh?tab=repositories&q=URL+Shortener)
 
 </td>
 <td width="50%" valign="top">
 
-<div align="left">
+### 🧠 AI Autonomous Learning System
+An adaptive learning system that personalizes content and pacing for learners using machine learning models.
 
-## <img src="https://cdn.simpleicons.org/tensorflow/60A5FA" width="18" /> AI Autonomous Learning System
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=D00000"/> <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
 
-An intelligent learning platform concept focused on adaptive content delivery, personalized learning paths, and AI-powered academic support.
-
-**Stack**  
-Python • TensorFlow • Keras • Pandas • Streamlit
-
-<a href="https://github.com/Fahad7177-jeh" target="_blank">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="View AI Autonomous Learning System on GitHub" />
-</a>
-
-</div>
+[![View Repository](https://img.shields.io/badge/View%20Repository-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fahad7177-jeh?tab=repositories&q=AI+Autonomous+Learning+System)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3B82F6,100:8B5CF6&height=3" width="100%"/>
 
-<div align="center">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Certifications&fontColor=E5E7EB&fontSize=30&fontAlign=50" alt="Certifications section title" />
+## <img src="https://img.shields.io/badge/-CERTIFICATIONS-8B5CF6?style=flat-square&labelColor=0D1117" height="26"/>
 
-</div>
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/sap/60A5FA" width="18" /> SAP Certified Associate  
-Back-End Developer – ABAP Cloud
-
-### <img src="https://cdn.simpleicons.org/oracle/F87171" width="18" /> Oracle Cloud Infrastructure  
-AI Foundations Associate
-
-### <img src="https://cdn.simpleicons.org/java/A78BFA" width="18" /> NPTEL  
-Java Programming — 85/100
+**SAP Certified Associate**
+<br/>Back-End Developer — ABAP Cloud
+<br/><img src="https://img.shields.io/badge/SAP-0D1117?style=flat-square&logo=sap&logoColor=0FAAFF"/>
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/hackerrank/22C55E" width="18" /> HackerRank  
-Python
+**OCI AI Foundations Associate**
+<br/>Oracle Cloud Infrastructure
+<br/><img src="https://img.shields.io/badge/Oracle-0D1117?style=flat-square&logo=oracle&logoColor=F80000"/>
 
-### <img src="https://cdn.simpleicons.org/infosys/60A5FA" width="18" /> Infosys  
-Machine Learning
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/google/F59E0B" width="18" /> Google  
-Ad Manager • AI-Powered Performance Ads
+**NPTEL — Java Programming**
+<br/>Score: 85 / 100
+<br/><img src="https://img.shields.io/badge/NPTEL-0D1117?style=flat-square&logo=googlescholar&logoColor=8B5CF6"/>
+
+</td>
+<td width="50%" valign="top">
+
+**HackerRank — Python**
+<br/>Problem Solving & Fundamentals
+<br/><img src="https://img.shields.io/badge/HackerRank-0D1117?style=flat-square&logo=hackerrank&logoColor=2EC866"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Infosys — Machine Learning**
+<br/>Springboard Certification
+<br/><img src="https://img.shields.io/badge/Infosys-0D1117?style=flat-square&logo=infosys&logoColor=1BA5DB"/>
+
+</td>
+<td width="50%" valign="top">
+
+**Google Ad Manager**
+<br/>Certified
+<br/><img src="https://img.shields.io/badge/Google-0D1117?style=flat-square&logo=google&logoColor=4285F4"/>
+
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2" valign="top">
+
+**AI-Powered Performance Ads**
+<br/>Google Certification
+<br/><img src="https://img.shields.io/badge/Google-0D1117?style=flat-square&logo=google&logoColor=4285F4"/>
 
 </td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Coding%20Profiles&fontColor=E5E7EB&fontSize=30&fontAlign=50" alt="Coding Profiles section title" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3B82F6,100:8B5CF6&height=3" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/Fahad7177-jeh" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub_Profile-0B1020?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub Profile" />
-</a>
-<a href="https://www.linkedin.com/in/shaik-fahad-jahangir-3746b92b6/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn_Profile-0B1020?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=111827" alt="LinkedIn Profile" />
-</a>
-<a href="https://leetcode.com/u/shaikfahadjahangir/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode_Profile-0B1020?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=111827" alt="LeetCode Profile" />
-</a>
-<a href="mailto:shaikfahadjahangir@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-0B1020?style=for-the-badge&logo=gmail&logoColor=F87171&labelColor=111827" alt="Email me" />
-</a>
-
-</div>
-
----
+## <img src="https://img.shields.io/badge/-GITHUB%20ANALYTICS-8B5CF6?style=flat-square&labelColor=0D1117" height="26"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=GitHub%20Analytics&fontColor=E5E7EB&fontSize=30&fontAlign=50" alt="GitHub Analytics section title" />
+<img src="https://github-readme-stats.vercel.app/api?username=Fahad7177-jeh&show_icons=true&theme=dark&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=F0F6FC&border_color=30363D&border_radius=14&hide_border=false" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Fahad7177-jeh&theme=dark&background=0D1117&stroke=30363D&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E&border_radius=14" width="49%"/>
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fahad7177-jeh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=8B5CF6&text_color=E5E7EB" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad7177-jeh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=E5E7EB" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad7177-jeh&layout=compact&theme=dark&bg_color=0D1117&title_color=8B5CF6&text_color=F0F6FC&border_color=30363D&border_radius=14&hide_border=false&langs_count=8" width="49%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Fahad7177-jeh&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=60A5FA&currStreakLabel=E5E7EB" alt="GitHub streak stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahad7177-jeh&bg_color=00000000&color=E5E7EB&line=60A5FA&point=8B5CF6&area=true&hide_border=true" alt="Contribution graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fahad7177-jeh&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" alt="GitHub trophies" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Fahad7177-jeh/Fahad7177-jeh/output/snake.svg" alt="Snake contribution animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=Fahad7177-jeh&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="90%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3B82F6,100:8B5CF6&height=3" width="100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-CONNECT%20WITH%20ME-8B5CF6?style=flat-square&labelColor=0D1117" height="26"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:1E1B4B,70:2563EB,100:8B5CF6&height=140&section=footer&text=%E2%80%9CDesign%20with%20clarity.%20Build%20with%20purpose.%20Grow%20with%20consistency.%E2%80%9D&fontSize=20&fontColor=E5E7EB&animation=fadeIn&fontAlignY=70" alt="Premium footer wave" />
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fahad7177-jeh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-fahad-jahangir-3746b92b6/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-6366F1?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shaikfahadjahangir/)
+[![Gmail](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikfahadjahangir@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>"Good software is built one thoughtful decision at a time."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
