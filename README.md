@@ -324,35 +324,17 @@ Ad Manager • AI-Powered Performance Ads
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=44&text=LeetCode%20Dashboard&fontColor=E5E7EB&fontSize=30&fontAlign=50" alt="LeetCode dashboard title" />
-
-<br/>
-
-<a href="https://leetcode.com/u/shaikfahadjahangir/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/shaikfahadjahangir?theme=dark&font=Karma&ext=heatmap" alt="LeetCode profile dashboard" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fahad7177-jeh/Fahad7177-jeh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fahad7177-jeh/Fahad7177-jeh/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub snake animation" src="https://raw.githubusercontent.com/Fahad7177-jeh/Fahad7177-jeh/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=44&text=Contribution%20Animation&fontColor=E5E7EB&fontSize=30&fontAlign=50" alt="Contribution animation title" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Fahad7177-jeh/Fahad7177-jeh/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://svgur.com/i/15jQ.svg" alt="Minimal dark abstract footer SVG" width="100%" />
-
-<br/>
 
 <p>
   <strong>“I build software that aims to be useful, elegant, and ready for the real world.”</strong>
