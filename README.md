@@ -195,8 +195,8 @@ An adaptive learning system that personalizes content and pacing for learners us
 <tr>
 <td width="50%" valign="top">
 
-**NPTEL — Java Programming**
-<br/>Score: 85 / 100
+**NPTEL — Deep Learning**
+<br/>Top 5 Among 1500 Candidate
 <br/><img src="https://img.shields.io/badge/NPTEL-0D1117?style=flat-square&logo=googlescholar&logoColor=8B5CF6"/>
 
 </td>
